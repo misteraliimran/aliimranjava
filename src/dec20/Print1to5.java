@@ -1,8 +1,8 @@
-package lesson1;
+package dec20;
 
-public class Print50To20 {
+public class Print1to5 {
     public static void main(String[] args) {
-        for (int i = 50; i >= 20; i--) {
+        for (int i = 1; i <= 5; i++) {
             System.out.println(i);
         }
     }
